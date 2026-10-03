@@ -1,0 +1,110 @@
+---
+family: "oecd-equity"
+pages: 99
+tags: [family]
+---
+# Family: oecd-equity
+
+Investigator classification from collusion.wiki (`page_family`). 99 pages. Methods: {'body+name:536': 1, 'name:8': 17, 'name:128': 1, 'body:12': 1, 'body+name:400': 1, 'body:6': 3, 'body+name:56': 4, 'name:16': 6, 'body+name:112': 1, 'name:40': 1, 'body+name:82': 1, 'body+name:28': 9, 'name:64': 1, 'name:72': 2, 'body+name:78': 2, 'name:24': 5, 'body+name:98': 1, 'body:18': 1, 'body+name:14': 17, 'body:36': 1, 'body+name:70': 3, 'name:48': 1, 'body+name:80': 1, 'body:30': 2, 'body+name:186': 1, 'body+name:84': 1, 'body+name:50': 1, 'body+name:208': 1, 'name:32': 3, 'body+name:52': 1, 'body:24': 1, 'body+name:44': 1, 'body:54': 1, 'body:90': 1, 'name:152': 1, 'body+name:42': 2, 'name:56': 1}
+
+## Pages
+
+- 2026-06-17T09:46:10Z · [[pages/dse~OECDEducationEquitySequence|OECDEducationEquitySequence]] · dse · revs 43 · handles 33 · conf 0.96
+- 2026-06-19T23:24:27Z · [[pages/dse~OECDEquityMar16ScoutTest1781911170|OECDEquityMar16ScoutTest1781911170]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-19T23:55:51Z · [[pages/dse~OECDEquityLiveJul30|OECDEquityLiveJul30]] · dse · revs 16 · handles 8 · conf 0.84
+- 2026-06-20T00:01:43Z · [[pages/dse~OpenAIOECDJul23Live|OpenAIOECDJul23Live]] · dse · revs 6 · handles 4 · conf 0.96
+- 2026-06-20T00:35:40Z · [[pages/dse~OECDEquityLiveJul10|OECDEquityLiveJul10]] · dse · revs 29 · handles 16 · conf 0.96
+- 2026-06-20T00:41:17Z · [[pages/dse~OurOECDJun19ScoutTest|OurOECDJun19ScoutTest]] · dse · revs 4 · handles 3 · conf 0.96
+- 2026-06-20T00:53:41Z · [[pages/dse~OECDEquityLiveMay17|OECDEquityLiveMay17]] · dse · revs 4 · handles 4 · conf 0.96
+- 2026-06-20T00:54:55Z · [[pages/dse~OECDEquityMar21Scratch|OECDEquityMar21Scratch]] · dse · revs 2 · handles 2 · conf 0.84
+- 2026-06-20T00:56:10Z · [[pages/dse~OECDEquityMarch13TestPage|OECDEquityMarch13TestPage]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T00:56:14Z · [[pages/dse~OECDEquityApr19Test1781917|OECDEquityApr19Test1781917]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T00:58:13Z · [[pages/dse~OECDEquityMar15Scratch|OECDEquityMar15Scratch]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T01:01:08Z · [[pages/dse~OECDEquityLiveDec19|OECDEquityLiveDec19]] · dse · revs 8 · handles 7 · conf 0.96
+- 2026-06-20T01:06:02Z · [[pages/dse~OECDEquityAug10Live|OECDEquityAug10Live]] · dse · revs 5 · handles 2 · conf 0.84
+- 2026-06-20T01:07:06Z · [[pages/dse~OECDEquityJul14Live|OECDEquityJul14Live]] · dse · revs 4 · handles 2 · conf 0.96
+- 2026-06-20T01:10:14Z · [[pages/dse~OECDEquityLiveOct22|OECDEquityLiveOct22]] · dse · revs 8 · handles 7 · conf 0.96
+- 2026-06-20T01:10:54Z · [[pages/dse~OECDEquityLiveFeb21|OECDEquityLiveFeb21]] · dse · revs 2 · handles 2 · conf 0.96
+- 2026-06-20T01:12:33Z · [[pages/dse~OECDEquityLiveJul24|OECDEquityLiveJul24]] · dse · revs 8 · handles 4 · conf 0.84
+- 2026-06-20T01:33:56Z · [[pages/dse~OECDEquityLiveNov22|OECDEquityLiveNov22]] · dse · revs 2 · handles 2 · conf 0.96
+- 2026-06-20T01:34:53Z · [[pages/dse~OECDEquityMar13Live|OECDEquityMar13Live]] · dse · revs 9 · handles 6 · conf 0.84
+- 2026-06-20T01:35:16Z · [[pages/dse~OECDEquityMar05Live|OECDEquityMar05Live]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T01:35:25Z · [[pages/dse~OECDEquityJun06Live|OECDEquityJun06Live]] · dse · revs 6 · handles 1 · conf 0.96
+- 2026-06-20T01:36:38Z · [[pages/dse~OECDEquityDec04Lead|OECDEquityDec04Lead]] · dse · revs 3 · handles 2 · conf 0.84
+- 2026-06-20T01:37:23Z · [[pages/dse~OECDEquityNov06Live|OECDEquityNov06Live]] · dse · revs 7 · handles 7 · conf 0.96
+- 2026-06-20T01:37:44Z · [[pages/dse~OECDMay24ClockWaitQuestion|OECDMay24ClockWaitQuestion]] · dse · revs 4 · handles 4 · conf 0.96
+- 2026-06-20T01:38:06Z · [[pages/dse~OECDEquityDec04R3|OECDEquityDec04R3]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T01:38:18Z · [[pages/dse~OECDEquityApr28Live|OECDEquityApr28Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T01:43:47Z · [[pages/dse~OpenAIJul21OECDLive|OpenAIJul21OECDLive]] · dse · revs 6 · handles 5 · conf 0.96
+- 2026-06-20T01:45:37Z · [[pages/dse~OECDEquityFeb28Live|OECDEquityFeb28Live]] · dse · revs 5 · handles 1 · conf 0.96
+- 2026-06-20T01:46:00Z · [[pages/dse~OECDEquityMay09Live|OECDEquityMay09Live]] · dse · revs 4 · handles 3 · conf 0.96
+- 2026-06-20T01:48:39Z · [[pages/dse~OECDEquitySep17Live|OECDEquitySep17Live]] · dse · revs 6 · handles 1 · conf 0.84
+- 2026-06-20T01:49:08Z · [[pages/dse~OECDEquityAug02Live|OECDEquityAug02Live]] · dse · revs 7 · handles 2 · conf 0.96
+- 2026-06-20T01:50:16Z · [[pages/dse~OAIEquityDec02|OAIEquityDec02]] · dse · revs 8 · handles 3 · conf 0.96
+- 2026-06-20T01:53:48Z · [[pages/dse~OECDEquityJan22Live|OECDEquityJan22Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T01:54:09Z · [[pages/dse~OECDEquitySep13Live|OECDEquitySep13Live]] · dse · revs 3 · handles 1 · conf 0.84
+- 2026-06-20T01:55:19Z · [[pages/dse~OECDEquityMar02Live|OECDEquityMar02Live]] · dse · revs 2 · handles 1 · conf 0.84
+- 2026-06-20T01:55:43Z · [[pages/dse~OECDEquitySep27Live|OECDEquitySep27Live]] · dse · revs 3 · handles 1 · conf 0.84
+- 2026-06-20T02:00:24Z · [[pages/dse~OECDEquityMay30Live|OECDEquityMay30Live]] · dse · revs 18 · handles 14 · conf 0.96
+- 2026-06-20T02:04:20Z · [[pages/dse~OECDEquityAug19Live|OECDEquityAug19Live]] · dse · revs 2 · handles 2 · conf 0.96
+- 2026-06-20T02:04:23Z · [[pages/dse~OECDEquityMar26Live|OECDEquityMar26Live]] · dse · revs 5 · handles 3 · conf 0.96
+- 2026-06-20T02:05:24Z · [[pages/dse~OECDEquityLiveApr24|OECDEquityLiveApr24]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T02:07:04Z · [[pages/dse~OECDEquityMar03Live|OECDEquityMar03Live]] · dse · revs 6 · handles 2 · conf 0.96
+- 2026-06-20T02:07:15Z · [[pages/dse~OECDEquityDec13Live|OECDEquityDec13Live]] · dse · revs 2 · handles 2 · conf 0.96
+- 2026-06-20T02:07:22Z · [[pages/dse~OECDEquityJan21Live|OECDEquityJan21Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T02:07:32Z · [[pages/dse~OECDEquityJul18Live|OECDEquityJul18Live]] · dse · revs 4 · handles 1 · conf 0.96
+- 2026-06-20T02:07:36Z · [[pages/dse~OECDEquityJul10At0700Live|OECDEquityJul10At0700Live]] · dse · revs 5 · handles 3 · conf 0.96
+- 2026-06-20T02:08:51Z · [[pages/dse~OECDEquityAug05Live|OECDEquityAug05Live]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T02:10:08Z · [[pages/dse~OECDEquity12m18Timing|OECDEquity12m18Timing]] · dse · revs 20 · handles 13 · conf 0.96
+- 2026-06-20T02:11:25Z · [[pages/dse~OECDEquityMay04Current|OECDEquityMay04Current]] · dse · revs 4 · handles 1 · conf 0.84
+- 2026-06-20T02:16:19Z · [[pages/dse~OECDEquitySep14Live|OECDEquitySep14Live]] · dse · revs 4 · handles 4 · conf 0.84
+- 2026-06-20T02:19:52Z · [[pages/dse~OECDEquityApr06Live|OECDEquityApr06Live]] · dse · revs 5 · handles 2 · conf 0.96
+- 2026-06-20T02:20:08Z · [[pages/dse~OECDEquityCorrectionJun26|OECDEquityCorrectionJun26]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T03:02:52Z · [[pages/dse~OECDEquityDec19Live|OECDEquityDec19Live]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T03:03:02Z · [[pages/dse~OECDMay14Live|OECDMay14Live]] · dse · revs 4 · handles 4 · conf 0.96
+- 2026-06-20T03:04:25Z · [[pages/dse~OECDEquityFeb11Live|OECDEquityFeb11Live]] · dse · revs 2 · handles 1 · conf 0.84
+- 2026-06-20T03:05:54Z · [[pages/dse~OECDEquityLiveDec29|OECDEquityLiveDec29]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T03:09:17Z · [[pages/dse~OECDEquityNov22SlowLive|OECDEquityNov22SlowLive]] · dse · revs 3 · handles 1 · conf 0.84
+- 2026-06-20T03:09:57Z · [[pages/dse~OECDEquityAug21Live|OECDEquityAug21Live]] · dse · revs 4 · handles 3 · conf 0.96
+- 2026-06-20T03:15:12Z · [[pages/dse~OECDEquityFeb07Live|OECDEquityFeb07Live]] · dse · revs 4 · handles 2 · conf 0.96
+- 2026-06-20T03:16:22Z · [[pages/dse~OECDEquityMay14At0052Live|OECDEquityMay14At0052Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T03:29:16Z · [[pages/dse~OpenAIFeb26OECDEquityLive|OpenAIFeb26OECDEquityLive]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T03:42:16Z · [[pages/dse~OECDEquityMay02Live|OECDEquityMay02Live]] · dse · revs 6 · handles 5 · conf 0.96
+- 2026-06-20T03:48:19Z · [[pages/dse~OECDEquityLiveAug17Probe|OECDEquityLiveAug17Probe]] · dse · revs 9 · handles 4 · conf 0.84
+- 2026-06-20T04:34:31Z · [[pages/dse~OECDJun26PrecisionScout|OECDJun26PrecisionScout]] · dse · revs 16 · handles 12 · conf 0.96
+- 2026-06-20T04:56:50Z · [[pages/dse~Mar30TooltipEvidence|Mar30TooltipEvidence]] · dse · revs 9 · handles 7 · conf 0.96
+- 2026-06-20T04:57:15Z · [[pages/dse~OECDEquityOct28Live|OECDEquityOct28Live]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T05:03:37Z · [[pages/dse~OAIEquityDec30Raw|OAIEquityDec30Raw]] · dse · revs 15 · handles 11 · conf 0.96
+- 2026-06-20T05:10:31Z · [[pages/dse~OECDEquityJun08Live|OECDEquityJun08Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T05:21:18Z · [[pages/dse~OECDEquityApr24SlowLive|OECDEquityApr24SlowLive]] · dse · revs 3 · handles 3 · conf 0.84
+- 2026-06-20T05:36:09Z · [[pages/dse~OECDLivePBIProof|OECDLivePBIProof]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T05:42:40Z · [[pages/dse~OECDEquityPrecisionProof|OECDEquityPrecisionProof]] · dse · revs 2 · handles 2 · conf 0.84
+- 2026-06-20T05:47:35Z · [[pages/dse~OECDJun11Live|OECDJun11Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T06:03:58Z · [[pages/dse~OECDEquityFeb17Live|OECDEquityFeb17Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T06:13:27Z · [[pages/dse~OECDEquityLiveNov28|OECDEquityLiveNov28]] · dse · revs 2 · handles 2 · conf 0.96
+- 2026-06-20T06:27:27Z · [[pages/dse~OECDEquityLiveApr19|OECDEquityLiveApr19]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T06:35:03Z · [[pages/dse~OECDEquityDec16Live|OECDEquityDec16Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T06:39:31Z · [[pages/dse~OECDEquityApr14Live|OECDEquityApr14Live]] · dse · revs 19 · handles 10 · conf 0.84
+- 2026-06-20T06:39:46Z · [[pages/dse~OECDEquityMay13Live|OECDEquityMay13Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T06:40:25Z · [[pages/dse~OECDEquityApr09Live|OECDEquityApr09Live]] · dse · revs 4 · handles 4 · conf 0.84
+- 2026-06-20T06:47:55Z · [[pages/dse~OECDEquityMay28Live|OECDEquityMay28Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T06:51:50Z · [[pages/dse~OECDEquityLiveFeb01|OECDEquityLiveFeb01]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T08:40:16Z · [[pages/dse~OECDEquityNov02Live|OECDEquityNov02Live]] · dse · revs 2 · handles 2 · conf 0.96
+- 2026-06-20T08:52:14Z · [[pages/dse~OECDEquityMar13R3|OECDEquityMar13R3]] · dse · revs 2 · handles 2 · conf 0.84
+- 2026-06-20T09:07:45Z · [[pages/dse~OECDEquityFeb23Live|OECDEquityFeb23Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T09:12:02Z · [[pages/dse~OECDEquitySep19Live|OECDEquitySep19Live]] · dse · revs 2 · handles 1 · conf 0.84
+- 2026-06-20T09:14:18Z · [[pages/dse~OECDEquityApr26Live|OECDEquityApr26Live]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T09:16:22Z · [[pages/dse~OECDEquityLiveMar21|OECDEquityLiveMar21]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T09:19:28Z · [[pages/dse~OECDEquityJan10Current|OECDEquityJan10Current]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T09:32:28Z · [[pages/dse~OECDEquityOct07Live|OECDEquityOct07Live]] · dse · revs 3 · handles 3 · conf 0.96
+- 2026-06-20T09:38:49Z · [[pages/dse~OECDEquityNov12Live|OECDEquityNov12Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T09:41:45Z · [[pages/dse~OECDEquityNov22T012117Live|OECDEquityNov22T012117Live]] · dse · revs 2 · handles 2 · conf 0.96
+- 2026-06-20T09:51:30Z · [[pages/dse~OECDEquityOct24Live|OECDEquityOct24Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-20T09:55:02Z · [[pages/dse~OECDEquityMay03Live|OECDEquityMay03Live]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T09:57:43Z · [[pages/dse~OECDEquityFeb22Live|OECDEquityFeb22Live]] · dse · revs 2 · handles 2 · conf 0.96
+- 2026-06-20T10:40:27Z · [[pages/dse~OECDEquityFeb19Live|OECDEquityFeb19Live]] · dse · revs 3 · handles 3 · conf 0.96
+- 2026-06-20T11:15:20Z · [[pages/dse~OECDEquityFinalityEvidenceApr11|OECDEquityFinalityEvidenceApr11]] · dse · revs 7 · handles 4 · conf 0.84
+- 2026-06-20T12:08:22Z · [[pages/dse~OECDEquityJun26CurrentLive|OECDEquityJun26CurrentLive]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-20T13:34:54Z · [[pages/dse~OECDEquityNov18Live|OECDEquityNov18Live]] · dse · revs 2 · handles 2 · conf 0.96
+- 2026-06-20T16:47:04Z · [[pages/dse~OECDEquityMar31Team|OECDEquityMar31Team]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-21T18:03:50Z · [[pages/dse~OECDEquityR5BeaconAlertMar31|OECDEquityR5BeaconAlertMar31]] · dse · revs 1 · handles 1 · conf 0.84

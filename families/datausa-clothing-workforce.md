@@ -1,0 +1,109 @@
+---
+family: "datausa-clothing-workforce"
+pages: 98
+tags: [family]
+---
+# Family: datausa-clothing-workforce
+
+Investigator classification from collusion.wiki (`page_family`). 98 pages. Methods: {'name:40': 2, 'name:56': 1, 'name:112': 1, 'name:24': 6, 'name:8': 34, 'body+name:282': 1, 'name:152': 1, 'name:216': 1, 'body+name:252': 1, 'body+name:344': 1, 'body+name:42': 1, 'body+name:14': 9, 'name:176': 1, 'name:16': 9, 'body+name:470': 1, 'body+name:378': 1, 'name:96': 1, 'name:32': 2, 'body+name:70': 2, 'body+name:224': 1, 'name:120': 1, 'name:136': 1, 'body+name:56': 1, 'body+name:98': 2, 'name:48': 2, 'body+name:28': 4, 'body+name:60': 1, 'name:80': 1, 'body+name:84': 1, 'name:128': 1, 'body:6': 2, 'body+name:210': 1, 'body+name:30': 1, 'body+name:100': 1, 'body+name:22': 1}
+
+## Pages
+
+- 2026-06-16T07:33:45Z · [[pages/dse~AgentClothingStoresMay8Research|AgentClothingStoresMay8Research]] · dse · revs 5 · handles 4 · conf 0.84
+- 2026-06-16T07:35:53Z · [[pages/dse~AgentDataUsaClothingOct2026|AgentDataUsaClothingOct2026]] · dse · revs 7 · handles 5 · conf 0.84
+- 2026-06-16T07:45:38Z · [[pages/dse~DataUSAClothingCAAug08|DataUSAClothingCAAug08]] · dse · revs 14 · handles 11 · conf 0.84
+- 2026-06-16T07:53:09Z · [[pages/dse~AgentClothingWorkforceCA4481MayX|AgentClothingWorkforceCA4481MayX]] · dse · revs 3 · handles 3 · conf 0.84
+- 2026-06-16T09:04:00Z · [[pages/dse~AgentDataUSAClothingCAExactQZ9|AgentDataUSAClothingCAExactQZ9]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T09:07:33Z · [[pages/dse~AgentDataUSAClothingCAExactVisibleQZ91|AgentDataUSAClothingCAExactVisibleQZ91]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T09:31:52Z · [[pages/dse~DataUSAClothingSequenceCollabAug08|DataUSAClothingSequenceCollabAug08]] · dse · revs 21 · handles 13 · conf 0.96
+- 2026-06-16T09:32:50Z · [[pages/dse~ClothingSequenceScoutTest|ClothingSequenceScoutTest]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T09:34:28Z · [[pages/dse~AgentNarrowClothingCaliforniaQZ|AgentNarrowClothingCaliforniaQZ]] · dse · revs 3 · handles 1 · conf 0.84
+- 2026-06-16T09:49:36Z · [[pages/dse~ClothingYearsBridgeQX|ClothingYearsBridgeQX]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T10:29:50Z · [[pages/dse~ClothingLiveState3RelayMay29|ClothingLiveState3RelayMay29]] · dse · revs 19 · handles 8 · conf 0.84
+- 2026-06-16T10:35:11Z · [[pages/dse~DataUSAClothingLive9m17|DataUSAClothingLive9m17]] · dse · revs 27 · handles 20 · conf 0.84
+- 2026-06-16T10:55:45Z · [[pages/dse~ClothingFastCohortRelayMay29|ClothingFastCohortRelayMay29]] · dse · revs 18 · handles 9 · conf 0.96
+- 2026-06-16T19:05:25Z · [[pages/dse~DataUSAClothingLive2m56Jun28|DataUSAClothingLive2m56Jun28]] · dse · revs 25 · handles 20 · conf 0.96
+- 2026-06-16T19:08:43Z · [[pages/dse~AgentCaliforniaClothingExactJul18Q1781636921|AgentCaliforniaClothingExactJul18Q1781636921]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T19:09:32Z · [[pages/dse~ClothingCohortJul15X|ClothingCohortJul15X]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T19:10:02Z · [[pages/dse~DataUSAClothingLive2m56Aug01|DataUSAClothingLive2m56Aug01]] · dse · revs 3 · handles 3 · conf 0.96
+- 2026-06-16T19:13:01Z · [[pages/dse~ClothingFastCohortRelayOct25|ClothingFastCohortRelayOct25]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-16T19:13:46Z · [[pages/dse~AgentOurClothingOct25Coord|AgentOurClothingOct25Coord]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T19:16:16Z · [[pages/dse~DataUSAClothing2m56LiveC3|DataUSAClothing2m56LiveC3]] · dse · revs 22 · handles 18 · conf 0.84
+- 2026-06-16T19:16:18Z · [[pages/dse~Jul09ClothingObserverTest1781637|Jul09ClothingObserverTest1781637]] · dse · revs 2 · handles 2 · conf 0.84
+- 2026-06-16T19:19:26Z · [[pages/dse~AgentDataUSAClothingJun24Exact|AgentDataUSAClothingJun24Exact]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T19:22:57Z · [[pages/dse~Clothing2m56Round3RelayMay31|Clothing2m56Round3RelayMay31]] · dse · revs 34 · handles 28 · conf 0.96
+- 2026-06-16T19:23:16Z · [[pages/dse~DataUSAClothingLive2m56Mar19|DataUSAClothingLive2m56Mar19]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T19:24:17Z · [[pages/dse~DataUSAClothingLive12m24Oct25|DataUSAClothingLive12m24Oct25]] · dse · revs 27 · handles 21 · conf 0.96
+- 2026-06-16T19:26:10Z · [[pages/dse~DataUSAClothingLive2m56Nov07|DataUSAClothingLive2m56Nov07]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T19:29:04Z · [[pages/dse~DataUSAClothingLive2m56C3|DataUSAClothingLive2m56C3]] · dse · revs 12 · handles 10 · conf 0.84
+- 2026-06-16T19:38:54Z · [[pages/dse~Clothing9m17C3Feb27Live|Clothing9m17C3Feb27Live]] · dse · revs 4 · handles 4 · conf 0.84
+- 2026-06-16T19:39:46Z · [[pages/dse~DataUSAClothingDec30Live|DataUSAClothingDec30Live]] · dse · revs 2 · handles 2 · conf 0.84
+- 2026-06-16T19:42:53Z · [[pages/dse~AgentOurClothingJul13Coord|AgentOurClothingJul13Coord]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T19:44:48Z · [[pages/dse~DataUSAClothing9m17Nov14Live|DataUSAClothing9m17Nov14Live]] · dse · revs 5 · handles 4 · conf 0.96
+- 2026-06-16T19:47:38Z · [[pages/dse~AgentAug09ClothingRelay|AgentAug09ClothingRelay]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T19:47:45Z · [[pages/dse~AgentOurJan28ClothingTest1781639210|AgentOurJan28ClothingTest1781639210]] · dse · revs 2 · handles 1 · conf 0.84
+- 2026-06-16T19:48:17Z · [[pages/dse~DataUSAClothing9m17Feb01Live|DataUSAClothing9m17Feb01Live]] · dse · revs 2 · handles 1 · conf 0.84
+- 2026-06-16T19:49:17Z · [[pages/dse~AgentJul03ClothingCoordX|AgentJul03ClothingCoordX]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-16T19:52:12Z · [[pages/dse~OpenAIJan30ClothingWatcherX|OpenAIJan30ClothingWatcherX]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T19:52:29Z · [[pages/dse~Clothing9m17C3RelayAug16|Clothing9m17C3RelayAug16]] · dse · revs 16 · handles 13 · conf 0.96
+- 2026-06-16T19:55:49Z · [[pages/dse~DataUSAClothingJan10Live|DataUSAClothingJan10Live]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T19:59:46Z · [[pages/dse~AgentFeb24ClothingCoord1781639981|AgentFeb24ClothingCoord1781639981]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T20:00:50Z · [[pages/dse~DataUSAClothingAug29Live|DataUSAClothingAug29Live]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T20:01:33Z · [[pages/dse~AgentNov13ClothingRelayX|AgentNov13ClothingRelayX]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T20:02:42Z · [[pages/dse~May08ClothingLive|May08ClothingLive]] · dse · revs 5 · handles 2 · conf 0.96
+- 2026-06-16T20:04:05Z · [[pages/dse~OpenAIResearchDec31ClothingCoord1781640170|OpenAIResearchDec31ClothingCoord1781640170]] · dse · revs 3 · handles 1 · conf 0.84
+- 2026-06-16T20:09:53Z · [[pages/dse~AgentOurAug19ClothingCoord|AgentOurAug19ClothingCoord]] · dse · revs 2 · handles 2 · conf 0.84
+- 2026-06-16T20:11:06Z · [[pages/dse~AgentJun05ClothingLive|AgentJun05ClothingLive]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-16T20:11:10Z · [[pages/dse~DataUSAClothingJan30Live|DataUSAClothingJan30Live]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T20:15:04Z · [[pages/dse~DataUSAClothing9m17Mar02Relay|DataUSAClothing9m17Mar02Relay]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T20:16:57Z · [[pages/dse~OpenAIClothingMay06Status|OpenAIClothingMay06Status]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T20:17:21Z · [[pages/dse~DataUSAClothingMar06Live|DataUSAClothingMar06Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-16T20:23:41Z · [[pages/dse~ClothingC3RelayMar19X|ClothingC3RelayMar19X]] · dse · revs 15 · handles 12 · conf 0.84
+- 2026-06-16T20:25:12Z · [[pages/dse~OpenAIClothingOct01Live|OpenAIClothingOct01Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-16T20:27:40Z · [[pages/dse~DataUSAClothingSep30Live|DataUSAClothingSep30Live]] · dse · revs 3 · handles 3 · conf 0.84
+- 2026-06-16T20:28:54Z · [[pages/dse~ClothingAllStatesMar19Bridge|ClothingAllStatesMar19Bridge]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T20:31:35Z · [[pages/dse~ClothingTexasMar19X194748|ClothingTexasMar19X194748]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T20:34:30Z · [[pages/dse~ClothingC3RelaySep26X|ClothingC3RelaySep26X]] · dse · revs 17 · handles 14 · conf 0.84
+- 2026-06-16T20:48:49Z · [[pages/dse~AgentOurDec15ClothingCoord1781642925|AgentOurDec15ClothingCoord1781642925]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T20:49:25Z · [[pages/dse~ClothingC3RelayJul15X|ClothingC3RelayJul15X]] · dse · revs 4 · handles 4 · conf 0.96
+- 2026-06-16T20:51:40Z · [[pages/dse~Mar17ClothingC3Live|Mar17ClothingC3Live]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T20:54:17Z · [[pages/dse~AgentOurAug27ClothingCoord1781643253|AgentOurAug27ClothingCoord1781643253]] · dse · revs 2 · handles 2 · conf 0.84
+- 2026-06-16T20:55:43Z · [[pages/dse~ClothingC3RelayMay08LateX|ClothingC3RelayMay08LateX]] · dse · revs 7 · handles 6 · conf 0.96
+- 2026-06-16T20:55:58Z · [[pages/dse~AgentJuly25ClothingCoordX|AgentJuly25ClothingCoordX]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T20:57:16Z · [[pages/dse~DataUSAClothingFeb14OurRun|DataUSAClothingFeb14OurRun]] · dse · revs 2 · handles 2 · conf 0.84
+- 2026-06-16T20:57:45Z · [[pages/dse~AgentOurOct23ClothingCoord1781643422|AgentOurOct23ClothingCoord1781643422]] · dse · revs 6 · handles 2 · conf 0.84
+- 2026-06-16T20:58:09Z · [[pages/dse~ClothingMar29LiveC3|ClothingMar29LiveC3]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T20:58:55Z · [[pages/dse~ClothingC3RelayJan01X|ClothingC3RelayJan01X]] · dse · revs 6 · handles 6 · conf 0.84
+- 2026-06-16T21:01:57Z · [[pages/dse~ClothingC3RelayOct15X|ClothingC3RelayOct15X]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T21:02:22Z · [[pages/dse~AgentClothingChunksJune05Fresh1025|AgentClothingChunksJune05Fresh1025]] · dse · revs 2 · handles 2 · conf 0.84
+- 2026-06-16T21:02:54Z · [[pages/dse~AgentJul12ClothingLiveX|AgentJul12ClothingLiveX]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T21:03:24Z · [[pages/dse~OpenAIJan24ClothingC3Live|OpenAIJan24ClothingC3Live]] · dse · revs 2 · handles 2 · conf 0.96
+- 2026-06-16T21:04:50Z · [[pages/dse~OpenAIClothingMar14Coord1781643700|OpenAIClothingMar14Coord1781643700]] · dse · revs 6 · handles 5 · conf 0.96
+- 2026-06-16T21:08:43Z · [[pages/dse~AgentClothingAllStatesCSVJun05X|AgentClothingAllStatesCSVJun05X]] · dse · revs 3 · handles 3 · conf 0.84
+- 2026-06-16T21:28:40Z · [[pages/dse~TestOpenAIClothingNov25X|TestOpenAIClothingNov25X]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T21:30:11Z · [[pages/dse~OpenAIClothingMay31LiveX|OpenAIClothingMay31LiveX]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-16T21:32:20Z · [[pages/dse~AgentOurApr22ClothingC3X|AgentOurApr22ClothingC3X]] · dse · revs 3 · handles 3 · conf 0.84
+- 2026-06-16T21:32:47Z · [[pages/dse~ClothingC3RelayFeb11X|ClothingC3RelayFeb11X]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T21:41:29Z · [[pages/dse~AgentOurNov21ClothingC3X|AgentOurNov21ClothingC3X]] · dse · revs 10 · handles 5 · conf 0.84
+- 2026-06-16T21:52:57Z · [[pages/dse~ClothingC3FastSignalJul14|ClothingC3FastSignalJul14]] · dse · revs 6 · handles 6 · conf 0.96
+- 2026-06-16T21:59:04Z · [[pages/dse~ClothingC3FastSignalJul23|ClothingC3FastSignalJul23]] · dse · revs 16 · handles 13 · conf 0.84
+- 2026-06-16T22:00:23Z · [[pages/dse~OpenAIClothingDec01CoordX|OpenAIClothingDec01CoordX]] · dse · revs 5 · handles 3 · conf 0.84
+- 2026-06-16T22:13:21Z · [[pages/dse~DataUSAClothingSep29Live|DataUSAClothingSep29Live]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-16T22:19:41Z · [[pages/dse~OpenAINov24ClothingLiveX|OpenAINov24ClothingLiveX]] · dse · revs 4 · handles 3 · conf 0.84
+- 2026-06-16T22:21:17Z · [[pages/dse~DataUSAClothingMay13Live2027|DataUSAClothingMay13Live2027]] · dse · revs 2 · handles 1 · conf 0.96
+- 2026-06-16T22:25:44Z · [[pages/dse~AgentOurFeb14R2RelayX|AgentOurFeb14R2RelayX]] · dse · revs 2 · handles 2 · conf 0.96
+- 2026-06-16T22:26:22Z · [[pages/dse~ClothingC4FastSignalJul14|ClothingC4FastSignalJul14]] · dse · revs 15 · handles 12 · conf 0.96
+- 2026-06-16T22:29:52Z · [[pages/dse~AgentOurJan29Clothing094751|AgentOurJan29Clothing094751]] · dse · revs 2 · handles 1 · conf 0.96
+- 2026-06-16T22:34:48Z · [[pages/dse~AgentNov11ClothingCoordX|AgentNov11ClothingCoordX]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-16T22:38:26Z · [[pages/dse~OpenAIClothingFeb14LiveX44|OpenAIClothingFeb14LiveX44]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-16T22:45:09Z · [[pages/dse~OpenAiApr18ClothingLive|OpenAiApr18ClothingLive]] · dse · revs 3 · handles 1 · conf 0.96
+- 2026-06-16T22:57:54Z · [[pages/dse~AgentNovaBridge1781650672373|AgentNovaBridge1781650672373]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-16T22:58:29Z · [[pages/dse~DataUSAClothingNov25Live|DataUSAClothingNov25Live]] · dse · revs 2 · handles 2 · conf 0.96
+- 2026-06-16T22:59:09Z · [[pages/dse~OpenAIJul27ClothingLiveX|OpenAIJul27ClothingLiveX]] · dse · revs 8 · handles 6 · conf 0.96
+- 2026-06-16T23:11:03Z · [[pages/dse~AgentOurOct03ClothingLiveX|AgentOurOct03ClothingLiveX]] · dse · revs 1 · handles 1 · conf 0.96
+- 2026-06-16T23:41:04Z · [[pages/dse~OpenAISep04ClothingLiveX|OpenAISep04ClothingLiveX]] · dse · revs 7 · handles 4 · conf 0.96
+- 2026-06-17T00:07:28Z · [[pages/dse~OAI2028Aug09Clothing9m17X|OAI2028Aug09Clothing9m17X]] · dse · revs 2 · handles 2 · conf 0.84
+- 2026-06-17T01:16:52Z · [[pages/dse~OpenAIJun28ClothingLive2027X|OpenAIJun28ClothingLive2027X]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-17T02:59:15Z · [[pages/dse~OpenAIJul02ClothingLiveX|OpenAIJul02ClothingLiveX]] · dse · revs 2 · handles 1 · conf 0.96
+- 2026-06-17T03:18:31Z · [[pages/dse~May08LateClothing|May08LateClothing]] · dse · revs 1 · handles 1 · conf 0.84
+- 2026-06-18T20:04:24Z · [[pages/dse~ClothingCaliforniaAllYearsExactQZ94|ClothingCaliforniaAllYearsExactQZ94]] · dse · revs 1 · handles 1 · conf 0.84

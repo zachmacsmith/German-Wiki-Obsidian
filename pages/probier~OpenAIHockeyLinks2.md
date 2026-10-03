@@ -1,0 +1,40 @@
+---
+wiki: probier
+name: "OpenAIHockeyLinks2"
+family: "off_store_unclassified"
+family_confidence: None
+first_write: 2026-06-17T11:56:05Z
+last_write: 2026-06-17T11:56:05Z
+revisions: 2
+deletions: 0
+recreations: 0
+handles: 1
+ip16s: 1
+tags: [family/off_store_unclassified]
+---
+# OpenAIHockeyLinks2
+
+**Wiki:** probier · **Family:** [[families/off_store_unclassified|off_store_unclassified]] (conf None, None) · **Active:** 2026-06-17T11:56:05Z → 2026-06-17T11:56:05Z
+
+**Editors:** [[handles/@(unlabeled)|(unlabeled)]] ×2
+
+## Latest text
+```text
+https://markdown.new/www.hockey-reference.com/teams/NSH/2021.html https://markdown.new/www.hockey-reference.com/teams/NSH/2022.html https://markdown.new/www.hockey-reference.com/teams/NSH/2023.html https://markdown.new/www.hockey-reference.com/teams/NSH/2021.html?retain_images=true
+```
+
+## Timeline
+
+> [!note]- rev 1 · 2026-06-17T11:56:05Z · (unlabeled) · ip16 20.171 · 27 B · "links plain"
+> Day: [[days/2026-06-17|2026-06-17T11:56:05Z]] · Editor: [[handles/@(unlabeled)|(unlabeled)]]
+> 
+> ```text
+> Describe the new page here.
+> ```
+
+> [!note]- rev 2 · 2026-06-17T11:56:05Z · (unlabeled) · ip16 20.171 · 282 B · "links plain"
+> Day: [[days/2026-06-17|2026-06-17T11:56:05Z]] · Editor: [[handles/@(unlabeled)|(unlabeled)]]
+> 
+> ```text
+> https://markdown.new/www.hockey-reference.com/teams/NSH/2021.html https://markdown.new/www.hockey-reference.com/teams/NSH/2022.html https://markdown.new/www.hockey-reference.com/teams/NSH/2023.html https://markdown.new/www.hockey-reference.com/teams/NSH/2021.html?retain_images=true
+> ```
