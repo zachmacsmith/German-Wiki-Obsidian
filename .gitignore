@@ -1,0 +1,4 @@
+.obsidian/*
+!.obsidian/plugins/obsidian-git
+!.obsidian/plugins/table-editor-obsidian
+.DS_Store
